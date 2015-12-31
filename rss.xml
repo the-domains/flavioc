@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[flavioc]]></title>
+        <description><![CDATA[flavioc]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 31 Dec 2015 18:50:54 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Arranca el blog]]></title>
+            <description><![CDATA[<article><h1>Arranca el blog</h1><p>Feliz 2016 para todos y todas!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/46aba242-9a2f-4f58-a8fb-0f7a2c0c9fe9.jpg"></article>]]></description>
+            <link>undefinedarranca-el-blog/index.html</link>
+            <guid isPermaLink="false">9d3a428a-9513-4e6b-9492-cfbfaf7e41b6</guid>
+            <pubDate>Thu, 31 Dec 2015 18:50:48 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
