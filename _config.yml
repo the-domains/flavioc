@@ -1,4 +1,4 @@
-name: flavioc
+name: impresiones digitales
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.37034
@@ -22,8 +22,8 @@ color:
     - '#5e635c'
     - '#7d897f'
     - '#c8c2be'
-  brandStrength: 0.5
+  brandStrength: 0
   lightness: 0.5625
-  saturation: 0.3125
+  saturation: 0.5
   rhythmicContrast: 0.5
 purpose: []
