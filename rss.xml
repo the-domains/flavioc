@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[impresiones digitales]]></title>
         <description><![CDATA[impresiones digitales]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/flavioc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Feb 2016 00:51:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 06 Feb 2016 00:55:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/flavioc/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[mi primer post]]></title>
-            <description><![CDATA[<article><h1>mi primer post</h1><p>Mi primer post.</p></article>]]></description>
-            <link>undefinedmi-primer-post/index.html</link>
+            <description><![CDATA[<article><h1>mi primer post</h1><p>Las carpitas de Mar del Plata tienen ese no-se-qué, viste?</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed3ac7ca-ffcf-46d4-93ce-66bf1d062dcc.jpg"></article>]]></description>
+            <link>https://thegrid.ai/flavioc/mi-primer-post/index.html</link>
             <guid isPermaLink="false">50732f69-5cf6-429d-8509-e8d594646873</guid>
-            <pubDate>Sat, 06 Feb 2016 00:51:33 GMT</pubDate>
+            <pubDate>Sat, 06 Feb 2016 00:55:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
