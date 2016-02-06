@@ -1,7 +1,7 @@
 name: impresiones digitales
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.37034
+layout_spectrum: 0.25301
+typography_spectrum: 0.74355
 title: impresiones digitales
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#161a1d'
-    - '#32342f'
-    - '#5e635c'
-    - '#7d897f'
-    - '#c8c2be'
+    - '#081320'
+    - '#c5c5c3'
+    - '#727e95'
+    - '#243a32'
+    - '#edeef0'
   brandStrength: 0
   lightness: 0.5625
   saturation: 0.5
