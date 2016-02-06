@@ -4,11 +4,18 @@
         <description><![CDATA[impresiones digitales]]></description>
         <link>https://thegrid.ai/flavioc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Dec 2015 19:18:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Feb 2016 00:47:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/flavioc/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Testing.</p>]]></description>
+            <link>https://thegrid.ai/flavioc/c96712e0-a294-427e-842e-49c2fdb567ba/index.html</link>
+            <guid isPermaLink="false">c96712e0-a294-427e-842e-49c2fdb567ba</guid>
+            <pubDate>Sat, 06 Feb 2016 00:47:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Arranca el blog]]></title>
-            <description><![CDATA[<article><h1>Arranca el blog</h1><p>Feliz 2016 para todos y todas!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5fb4d3eaeeba206f6b852c5aa2f2cfb668d8798d.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Arranca el blog</h1><p>Feliz 2016 para todos y todas!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/89968028111430f456c93807242b424e5f5ba9e7.jpg"></article>]]></description>
             <link>https://thegrid.ai/flavioc/arranca-el-blog/index.html</link>
             <guid isPermaLink="false">9d3a428a-9513-4e6b-9492-cfbfaf7e41b6</guid>
             <pubDate>Thu, 31 Dec 2015 18:50:48 GMT</pubDate>
